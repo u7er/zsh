@@ -1,3 +1,4 @@
+#!/bin/sh
 # szh install
 sudo apt install zsh -y && \
 
